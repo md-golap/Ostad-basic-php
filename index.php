@@ -6,6 +6,13 @@
     <title>Document</title>
 </head>
 <body>
-    <p>hellow</p>
+ 
+<?php
+ echo "Hello World!";
+
+
+?>
+
+    
 </body>
 </html>
